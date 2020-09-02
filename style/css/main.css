@@ -10,6 +10,8 @@ html,body {
 	font-family: PingFang SC,RobotoDraft,Roboto,Helvetica Neue,Helvetica,Arial,STHeiti,华文黑体,Microsoft YaHei,微软雅黑,sans-serif;
 	color: #333333;
 	background: rgba(249, 249, 249, 0.66);
+	overflow-x:hidden; 
+	overflow-y:hidden;
 }
 
 .avatar {
