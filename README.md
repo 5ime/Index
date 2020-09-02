@@ -4,4 +4,4 @@
 
 # 预览图
 
-![](https://cdn.jsdelivr.net/gh/5ime/Index/demo.png)
+![demo](https://user-images.githubusercontent.com/31686695/91958610-269e0e00-ed3a-11ea-96fe-3f784cf4aca6.png)
